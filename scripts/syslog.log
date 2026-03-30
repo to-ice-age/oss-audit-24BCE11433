@@ -1,0 +1,25 @@
+2026-03-30 09:00:01 INFO systemd: Starting system services
+2026-03-30 09:00:03 INFO sshd: Server listening on port 22
+2026-03-30 09:00:05 INFO kernel: Network interface eth0 up
+2026-03-30 09:01:10 WARNING sshd: Failed login attempt from 192.168.1.12
+2026-03-30 09:01:15 INFO sshd: Successful login from 192.168.1.10
+2026-03-30 09:02:20 ERROR nginx: Failed to start web server
+2026-03-30 09:02:25 INFO nginx: Retrying service start
+2026-03-30 09:02:30 INFO nginx: Web server started successfully
+2026-03-30 09:03:10 INFO mysql: Database connection established
+2026-03-30 09:03:45 WARNING mysql: Slow query detected
+2026-03-30 09:04:00 ERROR mysql: Database connection lost
+2026-03-30 09:04:05 INFO mysql: Reconnecting to database
+2026-03-30 09:04:10 INFO mysql: Database reconnected
+2026-03-30 09:05:12 INFO cron: Scheduled backup started
+2026-03-30 09:05:30 INFO cron: Backup completed successfully
+2026-03-30 09:06:10 WARNING disk: Disk usage at 85%
+2026-03-30 09:06:20 WARNING disk: Disk usage at 90%
+2026-03-30 09:06:40 ERROR disk: Disk almost full
+2026-03-30 09:07:00 INFO admin: Cleaning temporary files
+2026-03-30 09:07:20 INFO admin: Disk usage reduced to 60%
+2026-03-30 09:08:10 INFO firewall: New rule added
+2026-03-30 09:08:30 WARNING firewall: Suspicious traffic detected
+2026-03-30 09:08:50 ERROR firewall: Blocked IP 203.45.67.10
+2026-03-30 09:09:15 INFO system: Routine health check passed
+2026-03-30 09:10:00 INFO systemd: System running normally
