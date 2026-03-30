@@ -154,7 +154,7 @@ Arguments: `$1` = path to log file, `$2` = keyword to search (default: `error`).
 ```bash
 ./script5_manifesto_generator.sh 
 ```
-Interactive — the script will ask you three questions. Answer each prompt and press Enter. Your manifesto is saved to `manifesto_rahulvermadot.txt` and displayed on screen.
+Interactive — the script will ask you three questions. Answer each prompt and press Enter. Your manifesto is saved to `manifesto_kavyachaudhary.txt` and displayed on screen.
 
 ---
 
